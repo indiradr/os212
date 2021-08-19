@@ -1,7 +1,7 @@
 
 <body>
-  <h2><a href="https://indiradr.github.io/os212/" style="color: lightpink">os212</a></h2>
+  <h2>Indira Devi's Operating Systems 2021-2 Repository</h2>
   <ol type="I">
-        <li><a href="https://raw.githubusercontent.com/indiradr/os212/master/TXT/mylog.txt" style="color: lightpink">LOGS</a></li>
+        <li><a href="https://raw.githubusercontent.com/indiradr/os212/master/TXT/mylog.txt">LOGS</a></li>
     </ol>
 </body>
