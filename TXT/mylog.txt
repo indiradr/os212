@@ -6,8 +6,15 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
 
-ZCZC W00 10 L03 Github related
-ZCZC W00 20 L04 Github Pages related
+
+ZCZC W00 10 L11 Assignment #01 (Make os212 repository)
+ZCZC W00 5 L12 Assignment #02 (Make mylog.txt)
+ZCZC W00 20 L14 Assignment #03 (Make Github Page)
+ZCZC W00 5 L12 Assignment #04 (Course registration w/ Google Form)
 ZCZC W00 15 L06 Prepare the necessary references for the course
-ZCZC W00 30 L30 Udacity: watch Operating Systems: Visual Metaphor playlist
-ZCZC W00 20 L06 Read Chapter 1 of Operating Systems Concepts
+ZCZC W00 30 L30 Assignment #05 (Udacity: watch Operating Systems: Visual Metaphor playlist)
+ZCZC W00 60 L06 Assignment #05 (Read Chapter 1.1 - 1.4 of Operating Systems Concepts)
+ZCZC W00 100 L02 Monday Zoom meeting
+ZCZC W00 5 L01 First Contact & Second Contact forum
+ZCZC W00 5 L01 Join OS Discord server
+
