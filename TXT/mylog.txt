@@ -17,7 +17,13 @@ ZCZC W00 60 L06 Assignment #05 (Read Chapter 1.1 - 1.4 of Operating Systems Conc
 ZCZC W00 100 L02 Monday Zoom meeting
 ZCZC W00 5 L01 First Contact & Second Contact forum
 ZCZC W00 5 L01 Join OS Discord server
+ZCZC W01 5 L05 First quiz
 ZCZC W01 100 L02 Monday Zoom meeting
 ZCZC W01 30 L02 Thursday Zoom meeting (q&a)
-ZCZC W01 15 L11 Assignment #1: download and install VirtualBox
-ZCZC W01 10 L12 Assignment #2: download and install VirtualBox Debian guest
+ZCZC W01 15 L11 Assignment #01: download and install VirtualBox
+ZCZC W01 60 L12 Assignment #02: download and install VirtualBox Debian guest
+ZCZC W01 15 L13 Assignment #03: watch video on linux commands
+ZCZC W01 60 L14 Assignment #04: dress up virtual guess
+ZCZC W01 30 L15 Assignment #05: SSH key and git cloning
+ZCZC W01 15 L16 Assignment #06: dress up GitHub Page
+ZCZC W01 5 L17 Assignment #07: update mylog.txt
