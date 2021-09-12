@@ -4,7 +4,7 @@ permalink: /LINKS/
 
 ## 📍 Greetings! Welcome to Indira's repository for Operating Systems 2021-2
 
-[Home](.) | [Log](TXT/mylog.txt) | [Repo](https://github.com/indiradr/os212)
+[Home](https://indiradr.github.io/os212/) | [Log](TXT/mylog.txt) | [Repo](https://github.com/indiradr/os212)
 
 ### Here are some links that I think are pretty useful :D
 
