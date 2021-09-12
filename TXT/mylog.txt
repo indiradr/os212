@@ -27,3 +27,6 @@ ZCZC W01 60 L14 Assignment #04: dress up virtual guess
 ZCZC W01 30 L15 Assignment #05: SSH key and git cloning
 ZCZC W01 15 L16 Assignment #06: dress up GitHub Page
 ZCZC W01 5 L17 Assignment #07: update mylog.txt
+ZCZC W01 45 L19 Assignment #09: read chapter 18
+ZCZC W01 20 L13 Assignment #08: watch video on regex
+ZCZC W01 15 L13 Assigment #03: learn about vim editor basics
