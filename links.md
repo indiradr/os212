@@ -14,4 +14,5 @@ The host explains various concepts in a very easy way ton understand with helpfu
 I forget a concept or two. The table isn't confusing because thw writer explains the purpose of each column and it's organized in groups which makes finding
 a particular concept easier.
 3. [Vim basics](https://www.youtube.com/watch?v=ggSyF1SVFr4). This YouTube video gives a quick rundown on the basics of using vim editor. The tutorial is easy to understand and it's split up into parts so you can just skip to a part you want to learn. It's helpful if you want to learn basics such as quitting vim, searching text, replacing text, etc.
+4. [Debuggex](https://www.debuggex.com/). This is a regex visualization tool. You type in the regex at the top box, and your test data in the bottom text box, while the top-most box can show you the visualization of th regex. This really helped me in understanding how the regex syntax work, as it actually shows the regex pattern to help me better understand it.
 
