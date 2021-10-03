@@ -18,4 +18,5 @@ a particular concept easier.
 5. [Cybersecurity Crash Course](https://www.youtube.com/watch?v=bPVaOlJ6ln0). This another helpful video by Crash Course that gives a comprehensive introduction to Cybersecurity. Like most Crash Course videos, it's pretty easy to understand and the visuals are very engaging.
 6. [C Guidebook](https://www.freecodecamp.org/news/the-c-beginners-handbook/). This is a quick guidebook for the language C. It's pretty beginner friendly and explains concepts well. So, it's a good place to take a peek when I'm forgetting a simple concept and need a refresher.
 7. [File System Basics](https://www.tutorialspoint.com/unix/unix-file-system.htm). This is website that explains the file system of UNIX/LINUX. It explains the directory structure, commands that are useful to navigate the file system, and the concept of mounting.
+8. [Memory-Mapped Files](https://www.youtube.com/watch?v=nPIhoJ6lKeQ). This is a youtube video that explains about memmory mapped files. Neil Rhodes explains the concept pretty well, and how to use operations such as Open, Seek, Read and Write.
 

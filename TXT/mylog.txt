@@ -61,4 +61,19 @@ ZCZC W03 10 L01 SCELE/Discord related
 ZCZC W03 10 L18 Assignment #08
 ZCZC W03 20 L15 Assignment #01: read slides for chapter 15
 ZCZC W03 20 L12 Assignment #02: try week 03 Demos
+ZCZC W04 30 L11 Assignment #01: Read chapter 9.0, 9.1, and 9.2 in OSC10
+ZCZC W04 100 L02 ZOOM meetings related
+ZCZC W04 30 L12 Assignment #02: try demos
+ZCZC W04 40 L13 Assignment #03: do midterm problems
+ZCZC W04 10 L02 ZOOM meetings related
+ZCZC W04 15 L01 SCELE/Discord related: answer forum questions
+ZCZC W04 5 L14 Assignment #04: install Package List 2
+ZCZC W04 10 L15 Assignment #05: fetch and extract
+ZCZC W05 20 L15 Assignment #05: 5a, 5b, 5c
+ZCZC W05 20 L16 Assignment #06: update bookmark links
+ZCZC W04 45 L11 Assignment #01: read chapter 9.3, 9.4, 9.5
+ZCZC W04 15 L17 Assignment #07: review peer links
+ZCZC W04 10 L18 Assignment #08: update mylog.txt
+ZCZC W04 5 L19 Assignment #09: submit week04 assignments
+
 
